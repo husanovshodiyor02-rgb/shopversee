@@ -14,6 +14,7 @@ const BlogCard = ({ image, title, date }) => {
         <h3 className="mt-3 text-base font-semibold sm:text-lg">
           {title}
         </h3>
+        
   
         {/* Bottom */}
         <div className="mt-2 flex items-center justify-between gap-3">
