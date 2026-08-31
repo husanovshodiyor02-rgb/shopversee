@@ -21,7 +21,7 @@ const Footer = () => {
         <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
           {/* Left */}
           <div>
-            <h2 className="text-3xl font-bold sm:text-4xl">ShopVerse</h2>
+            <a href="/" className="text-3xl font-bold sm:text-4xl">ShopVerse</a>
 
             <p className="mt-8 text-xs text-gray-600 sm:mt-10">
               © 2024 Shopverse All Rights Reserved
