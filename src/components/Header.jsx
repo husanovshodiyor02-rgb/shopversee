@@ -18,7 +18,6 @@ const Header = () => {
   return (
     <header className="relative z-50 mx-auto max-w-[1400px] px-4 py-5 sm:px-6 lg:px-8">
       <div className="flex items-center justify-between">
-        
         {/* Logo */}
         <a href="/" className="text-xl font-bold tracking-tight sm:text-2xl">
           ShopVerse
