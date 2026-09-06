@@ -49,7 +49,7 @@ const TrendingCategories = () => {
       </div>
 
       {/* Categories */}
-      <div className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 md:grid-cols-5 lg:gap-x-8">
+      <div className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 lg:gap-x-8">
         {categories.map((category) => (
           <CategoryCard
             key={category.title}

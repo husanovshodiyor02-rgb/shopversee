@@ -6,7 +6,7 @@ const BlogCard = ({ image, title, date }) => {
           <img
             src={image}
             alt={title}
-            className="h-auto w-full"
+            className="h-auto w-full transition duration-300 group-hover:scale-105"
           />
         </div>
   

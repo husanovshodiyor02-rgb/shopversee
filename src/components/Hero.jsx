@@ -7,7 +7,7 @@ const Hero = () => {
       <img
         src={watchBanner}
         alt="Apple Watch Ultra"
-        className="absolute inset-0 h-full w-full"
+        className="absolute inset-0 h-full w-full object-cover"
       />
 
       {/* Dark overlay */}
