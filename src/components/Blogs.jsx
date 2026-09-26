@@ -6,6 +6,7 @@ import blog2 from "../assets/blog2.png";
 import blog3 from "../assets/blog3.png";
 
 const blogs = [
+  
   {
     id: 1,
     image: blog1,
